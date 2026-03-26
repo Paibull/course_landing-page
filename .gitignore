@@ -1,14 +1,11 @@
-# Agent AI and tooling folders
 .agents/
 .agent/
 _agents/
 _agent/
 skills/
 skills-lock.json
-.gemini/
 .env
 
-# OS generated files
 .DS_Store
 .DS_Store?
 ._*
